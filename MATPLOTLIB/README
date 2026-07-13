@@ -1,0 +1,14 @@
+learning/
+│
+├── matplotlib/
+│   ├── README.md
+│   ├── Day-01-Introduction.ipynb
+│   ├── Day-02-Line-Plot.ipynb
+│   ├── Day-03-Bar-Plot.ipynb
+│   ├── Day-04-Scatter-Plot.ipynb
+│   ├── Day-05-Histogram.ipynb
+│   ├── Day-06-Pie-Chart.ipynb
+│   ├── Day-07-Box-Plot.ipynb
+│   ├── Day-08-Subplots.ipynb
+│   ├── Day-09-Customization.ipynb
+│   └── Day-10-Cheat-Sheet.ipynb
